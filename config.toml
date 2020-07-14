@@ -5,7 +5,7 @@ languageCode = "en-US"
 theme = "indigo"
 
 [params]
-  Author = "Site Author Name"
+  Author = "TG"
   Description = "Description of website for head meta tag"
   Subtitle = "Practical ideas to put into practice"
   Avatar = "images/colorado_lake.jpg"
